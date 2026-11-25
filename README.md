@@ -1,18 +1,98 @@
-Privacy policy - Driving Theory Test Practise
+# Privacy Policy – UK Driving Theory Test Practise
 
+**Effective Date:** 25 November 2026
 
-1 .Privacy Policy for Android mobile applications. We has developed this privacy policy to help users to understand how we get , use and protect the information of the user . By installing and using the our applications, you agree to this privacy policy and give an explicit and informed consent to the processing. If you do not agree, please do not install our applications.
+Wishpool Arcade ("we", "our" or "us") respects your privacy and is committed to protecting your information. This Privacy Policy explains how our UK Driving Theory Test Practise application ("the App") handles information when you use our services.
 
-Personal Data We do NOT collect any personal data with anyone. Your vedios and photos phone numbers or any Personal data means personally identifiable information that specifically identifies you as an individual (e.g. your name, email address, Contects etc).
+By downloading or using our App, you acknowledge that you have read and understood this Privacy Policy.
 
-Non-personal Data We may disclose non-personal data to third parties and/or allow third parties to collect non-personal data through their own embedded technology. In order to deliver targeted ads to you, the third-party advertising companies may place or recognize unique cookies, anonymous identifiers or similar technology for non-personally identifiable information. Non-personal data means information that, by itself, does not personally identify you. We may collect non-personal data such as your device model number, operating system version, country code and other properties for purposes of managing the apps and communicating with you, as well as for targeted ad-serving.
+## 1. Personal Information
 
-Camera data Some of the application may request your camera data. It is used to capturs for the pupose of editing and you don not share any photo data with anyone app or person
+We do not directly request personal information such as your name, home address, telephone number or email address simply to use the App.
 
-Contects Data Some of ours applicatins use contects of by your premission, we don�t share any of your data with any third parties
+However, certain third-party services integrated into the App may process technical information or device identifiers, as explained in this policy.
 
-Disclosure and Transfer of Personal Data We disclose information to respond to subpoenas, court orders and other legal processes as well as to establish/exercise our legal rights or defend against legal claims. We will share non-Personal data and personal data in order to investigate, prevent or take action against illegal activities, suspected fraud, potential threats to the physical safety of any person, violations of our Terms of Use or as otherwise required by law.
+## 2. Non-Personal Information
 
-Disclaimer: Please use to visit the privacy policy, we can update it future.
+We may collect or allow our third-party service providers to process certain non-personal and technical information to maintain and improve the App.
 
-Contact: If you have any query then contact at wishpoolaracde@gmail.com
+This information may include:
+
+- Device model and manufacturer.
+- Operating system and version.
+- App version and technical information.
+- Country or general location information.
+- Advertising identifiers.
+- App performance and diagnostic information.
+
+This information may be used to improve app performance, identify technical issues, maintain services and display advertisements.
+
+## 3. Advertising Services
+
+Our App may use third-party advertising services, such as Google AdMob, to display advertisements.
+
+These advertising providers may use advertising identifiers, cookies or similar technologies to deliver, measure and improve advertisements.
+
+Such providers may independently process certain information in accordance with their own privacy policies.
+
+For further information, please review Google's Privacy Policy:
+
+https://policies.google.com/privacy
+
+## 4. Firebase and Other Third-Party Services
+
+We may use Google Firebase and other third-party services to support application functionality, maintain app services and improve performance.
+
+Depending on the services enabled in the App, these providers may process technical information, diagnostic information and other data necessary to provide their services.
+
+We do not sell users' personal information to third parties.
+
+## 5. Camera and Photos
+
+The App does not require access to your camera or photos for its normal driving theory test practice functionality.
+
+If any future feature requires camera or photo access, permission will be requested from you before accessing the relevant functionality.
+
+## 6. Contacts Information
+
+The App does not require access to your phone contacts for its normal functionality.
+
+We do not access or collect your contacts unless a specific feature is introduced that requires such permission and you explicitly grant it.
+
+## 7. Data Security
+
+We take reasonable measures to protect information processed through our App and the services we use.
+
+However, no method of electronic storage or internet transmission is completely secure. Therefore, we cannot guarantee absolute security.
+
+## 8. Disclosure of Information
+
+We may disclose information where necessary:
+
+- To comply with applicable laws, regulations or legal requests.
+- To respond to court orders or other legal processes.
+- To protect our rights, users and application services.
+- To investigate fraud, security issues or unlawful activities.
+- To trusted third-party service providers that help us operate the App.
+
+We do not sell personal information to third parties.
+
+## 9. Children's Privacy
+
+Our App is intended for users preparing for driving theory tests. We do not knowingly request personal information from children.
+
+If you believe that a child has provided personal information through our App, please contact us so that we can investigate the matter.
+
+## 10. Changes to This Privacy Policy
+
+We may update this Privacy Policy from time to time to reflect changes in our application, services, legal requirements or privacy practices.
+
+Any updates will be published on this page. We encourage users to review this policy periodically.
+
+## 11. Contact Us
+
+If you have any questions, concerns or requests regarding this Privacy Policy or the handling of your information, please contact us:
+
+**Developer:** Wishpool Arcade
+
+**Email:** wishpoolaracade@gmail.com
