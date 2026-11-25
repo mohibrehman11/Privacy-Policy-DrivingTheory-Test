@@ -93,6 +93,6 @@ Any updates will be published on this page. We encourage users to review this po
 
 If you have any questions, concerns or requests regarding this Privacy Policy or the handling of your information, please contact us:
 
-**Developer:** Wishpool Arcade
+**Developer:** Wishpool
 
 **Email:** wishpoolaracade@gmail.com
