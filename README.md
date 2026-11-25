@@ -2,7 +2,7 @@
 
 **Effective Date:** 25 November 2026
 
-Wishpool Arcade ("we", "our" or "us") respects your privacy and is committed to protecting your information. This Privacy Policy explains how our UK Driving Theory Test Practise application ("the App") handles information when you use our services.
+Wishpool ("we", "our" or "us") respects your privacy and is committed to protecting your information. This Privacy Policy explains how our UK Driving Theory Test Practise application ("the App") handles information when you use our services.
 
 By downloading or using our App, you acknowledge that you have read and understood this Privacy Policy.
 
